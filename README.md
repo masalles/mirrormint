@@ -73,5 +73,17 @@ Only system-level configuration and applications.
 
 Run:
 
+## ⚡ Quick Run (One-Line Execution)
+
+You can run MintBlueprint directly from GitHub without cloning the repository:
+
+```bash
+sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/masalles/mirrormint/refs/heads/main/mintblueprint-export.sh)"
+```
+
+or
+
+
 ```bash
 bash exportar-sistema.sh
+```
